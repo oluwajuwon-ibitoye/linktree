@@ -542,11 +542,11 @@ section {
     @media screen and (min-width: 480px){
         .flip-card {
   background-color: transparent;
-  width: 400px;
-  height: 400px;
+  width: 480px;
+  height: 480px;
     }
     .flip-card-back p{
-  padding-top: 12px;
+  padding-top: 10px;
   font-size: 1.0em;
 }
   }
@@ -557,7 +557,7 @@ section {
   height: 500px;
     }
     .flip-card-back p{
-  padding-top: 15px;
+  padding-top: 12px;
   font-size: 1.2em;
 }
   }
